@@ -1,0 +1,54 @@
+#summary One-sentence summary of this page.
+
+= Meu Esmalte =
+
+O MeuEsmalte é um aplicativo para Android que possui o propósito de  permitir o cadastro e controle dos esmaltes de seus usuários através de uma interfase fácil e amigável.
+
+Em sua tela principal o aplicativo dará a opção de escolher entre cadastrar um novo item ou buscar os itens cadastrados.
+
+Ao escolher a opção "Cadastrar novo item" será exibida a tela de cadastro com os itens:
+  *  Nome;
+  *  Marca;
+  *  Cor;
+  *  Tipo de cobertura;
+  *  Data de validade;
+
+Ao escolher a opção "Buscar" será exibida uma tela para a escolha do tipo de busca/exibição com as seguintes opções:
+  *  Todos;
+  *  Por Cor;
+  *  Por Marca;
+  *  Por Tipo de cobertura;
+  *  Próximos da validade (exibirá os itens que vencem nos próximos 6 meses)
+
+Através destas funcionalidades o aplicativo busca facilitar o controle dos esmaltes e prevenir a perda de itens por validade vencida, além da facilidade de reconhecer e localizar itens por cores e tipos.
+
+<hr>
+
+= Contato para Desenvolvedores =
+
+O projeto é Open Source e está disponível para colaboração.
+
+Caso tenha interesse em colaborar com o projeto, entre em contato com um dos desenvolvedores.
+
+  *  *Sue Ellen* - sue.padilla.santos@gmail.com 
+
+<hr>
+
+= Contato para Usuários =
+
+Caso queira compartilhar suas experiências com o aplicativo, entre em contato através dos contatos abaixo e transmita-nos suas impressões, sugestões ou reclamações.
+
+  *  *Sue Ellen* - sue.padilla.santos@gmail.com
+
+<hr>
+
+= Download do Aplicativo =
+
+O aplicativo está disponível para download em:
+
+<hr>
+
+= Maiores Informações sobre o Aplicativo =
+
+Para maiores informações, download e instruções de instalação, acesse:
+“link”
