@@ -2,18 +2,17 @@
 
 As tecnologias utilizadas no desenvolvimento do projeto, sao:
 
-* Eclipse Standard; 
+  *  Eclipse Standard; 
 
-* Eclipse JDK;
+  *  Eclipse JDK;
 
-* ADT Bundle ();
+  *  ADT Bundle ();
 
-Ferramentas disponíveis para download em:
+Ferramentas disponíveis para download em: http://developer.android.com/sdk/index.html
 
-http://developer.android.com/sdk/index.html
+  *  Subversive (plugin de ferramenta de versionamento - não nativa no Eclipse)
 
-* Subversive (plugin de ferramenta de versionamento - não nativa no Eclipse),
-
+<hr>
 
 O projeto esta no formato dos projetos Eclipse/Android.
 
