@@ -6,21 +6,31 @@ A primeira coisa a se fazer é mudar as configurações de permissão de instala
 
 Para isso vá em "Configurações". Em seguida em "Segurança". Lá, deixe marcada a opção "Fontes desconhecidas";
 
+<hr>
+
 * Passo 2 *
 
 Depois é só; baixar aplicativo com a extensão .apk. O link você encontra logo acima no item "Download";
+
+<hr>
 
 * Passo 3 *
 
 Ao baixar o arquivo .apk, grave-o no computador e conecte seu dispositivo ao computador via USB;
 
+<hr>
+
 * Passo 4 *
 
 Copie o arquivo .apk para a pasta de sua preferência no Android;
 
+<hr>
+
 * Passo 5 * 
 
 No celular ou tablet Android utilize o navegador de arquivos nativo (local no qual aparecem as pastas) ou outro disponível na Google Play para encontrar o arquivo do seu app baixado;
+
+<hr>
 
 * Passo 6 *
 
