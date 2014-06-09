@@ -7,7 +7,8 @@ Para isso vá em "Configurações". Em seguida em "Segurança". Lá, deixe marca
 * Passo 2 * - Depois é só; baixar aplicativo com a extensão .apk. O link você encontra logo acima no item "Download";
 
 * Passo 3 * - Ao baixar o arquivo .apk, grave-o no computador e conecte seu dispositivo ao computador via USB;
-							
+					
+		
 * Passo 4 * - Copie o arquivo .apk para a pasta de sua preferência no Android;
 
 												
